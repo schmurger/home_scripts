@@ -1,0 +1,8 @@
+*.playstation.com
+*.playstation.com.*
+playstation.com
+*.playstation.net
+*.playstation.net.*
+*.psndl.net
+playstation.net
+psndl.net
